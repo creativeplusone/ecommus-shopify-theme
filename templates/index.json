@@ -95,17 +95,24 @@
         "padding_rate": 75
       }
     },
+    "custom_line_pJp7Tn": {
+      "type": "custom-line",
+      "name": "t:sections.custom-line.name",
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#ffffff",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 64,
+        "padding_rate": 75
+      }
+    },
     "collections_list_6fMjgT": {
       "type": "collections-list",
       "blocks": {
-        "collection_item_77qfGF": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "bestseller",
-            "title": "",
-            "collection_link": ""
-          }
-        },
         "collection_item_P3k4YD": {
           "type": "collection_item",
           "settings": {
@@ -137,21 +144,29 @@
             "title": "",
             "collection_link": ""
           }
+        },
+        "collection_item_77qfGF": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "eye-gel-cream",
+            "title": "",
+            "collection_link": ""
+          }
         }
       },
       "block_order": [
-        "collection_item_77qfGF",
         "collection_item_P3k4YD",
         "collection_item_JNPCBN",
         "collection_item_KmtTxh",
-        "collection_item_tV4qcG"
+        "collection_item_tV4qcG",
+        "collection_item_77qfGF"
       ],
       "custom_css": [
         ".hdt-slider__button {border-radius: 50%;}",
         ".hdt-collection-link {right: 0;}"
       ],
       "settings": {
-        "heading_align": "start",
+        "heading_align": "center",
         "sec_heading": "Featured Collections",
         "heading_tag": "h4",
         "heading_size": "h4",
@@ -159,36 +174,36 @@
         "subheading_size": "base",
         "heading_reverse": false,
         "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 66,
+        "heading_gap": 22,
+        "sec_heading_spacing": 20,
         "collection_list": [],
-        "collection_des": "3",
+        "collection_des": "4",
         "content_size": "xl",
         "content_weight": "medium",
         "text_transform": false,
-        "content_position": "end-start",
-        "content_padding": 19,
-        "image_ratio": "asos",
+        "content_position": "center",
+        "content_padding": 25,
+        "image_ratio": "portrait",
         "image_size": true,
         "col_dk": "4",
         "col_tb": "2",
         "col_mb": "2",
-        "space_items": "x",
-        "half_item": true,
+        "space_items": "20",
+        "half_item": false,
         "navUI": true,
         "btn_vi": "hover",
         "nav_des": "outline",
         "nav_icon": "chrvon",
-        "nav_pos": "ontop_right",
+        "nav_pos": "middle_in",
         "dotUI": false,
-        "dots_pos": "ontop",
-        "section_fullwidth": true,
+        "dots_pos": "on_content",
+        "section_fullwidth": false,
         "boxed_fullwidth": true,
-        "boxed_content": false,
+        "boxed_content": true,
         "color_scheme": "scheme-2",
-        "padding_top": 78,
-        "padding_bottom": 100,
-        "padding_rate": 50
+        "padding_top": 40,
+        "padding_bottom": 80,
+        "padding_rate": 70
       }
     },
     "featured_collection_carousel_ViDM6V": {
@@ -826,6 +841,7 @@
   },
   "order": [
     "slideshow_tBCD9z",
+    "custom_line_pJp7Tn",
     "collections_list_6fMjgT",
     "featured_collection_carousel_ViDM6V",
     "hero_image_wbxzqd",
