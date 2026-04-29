@@ -12,113 +12,10 @@
     "slideshow_tBCD9z": {
       "type": "slideshow",
       "blocks": {
-        "slide_item_ADdKxA": {
-          "type": "_slide-item",
-          "settings": {
-            "image": "shopify://shop_images/005fashion-slideshow-03.jpg",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "scheme-672bceb9-5154-411c-8f06-538dd1640832",
-            "content_position": "center",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center",
-            "background_content": false,
-            "bg_opacity": 0,
-            "box_square": false,
-            "content_rounded": false,
-            "use_border_content": false,
-            "border_opacity": 0,
-            "border_style": "none",
-            "border_pd_dk": 0,
-            "padding_vertical": 30,
-            "padding_horizontal": 30,
-            "min_width_content": 350,
-            "border_pd": 0
-          },
-          "blocks": {
-            "heading_fyggKC": {
-              "type": "heading",
-              "settings": {
-                "heading": "<p>Effortless Elegance</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "heading_size": "h1",
-                "text_color": "hdt-s-text",
-                "font_size_heading_lg": 80,
-                "font_size_heading_md": 30,
-                "font_size_heading": 24,
-                "font_weight_heading": 400,
-                "letter_spacing_heading": 0
-              }
-            },
-            "spacer_YEbP8T": {
-              "type": "spacer",
-              "settings": {
-                "direction": false,
-                "space_lg": 18,
-                "space_md": 18,
-                "space": 18
-              }
-            },
-            "text_ctCQqj": {
-              "type": "text",
-              "settings": {
-                "text": "<p>From casual to formal, we've got you covered</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "text_size": "custom",
-                "text_color": "hdt-s-text",
-                "font_size_text_lg": 20,
-                "font_size_text_md": 14,
-                "font_size_text": 16,
-                "font_weight_text": 400,
-                "letter_spacing_text": 0
-              }
-            },
-            "spacer_Lm3Je8": {
-              "type": "spacer",
-              "settings": {
-                "direction": false,
-                "space_lg": 48,
-                "space_md": 30,
-                "space": 20
-              }
-            },
-            "button_cm6WNK": {
-              "type": "button",
-              "settings": {
-                "label": "Shop collection",
-                "link": "shopify://collections/new-arrival",
-                "open_in_new_tab": false,
-                "full_width": false,
-                "style_class": "solid",
-                "font_size": "custom custom-inline",
-                "font_weight": "medium",
-                "font_size_btn": 18,
-                "padding_btn": 30,
-                "min_width_btn": 100,
-                "min_width_dt_btn": 216,
-                "min_height_btn": 51,
-                "icon": "arrow_simple",
-                "icon_position": "after",
-                "icon_height": 10,
-                "icon_spacing": 5
-              }
-            }
-          },
-          "block_order": [
-            "heading_fyggKC",
-            "spacer_YEbP8T",
-            "text_ctCQqj",
-            "spacer_Lm3Je8",
-            "button_cm6WNK"
-          ]
-        },
         "slide_item_pA3jjx": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify://shop_images/slide4-1.jpg",
+            "image": "shopify://shop_images/1215848_286.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-672bceb9-5154-411c-8f06-538dd1640832",
@@ -139,89 +36,12 @@
             "min_width_content": 350,
             "border_pd": 0
           },
-          "blocks": {
-            "heading_jDwDgm": {
-              "type": "heading",
-              "settings": {
-                "heading": "<p>The mystery behind</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "heading_size": "h1",
-                "text_color": "hdt-s-text",
-                "font_size_heading_lg": 80,
-                "font_size_heading_md": 30,
-                "font_size_heading": 24,
-                "font_weight_heading": 400,
-                "letter_spacing_heading": 0
-              }
-            },
-            "spacer_pVWnWz": {
-              "type": "spacer",
-              "settings": {
-                "direction": false,
-                "space_lg": 18,
-                "space_md": 18,
-                "space": 18
-              }
-            },
-            "text_WTVKay": {
-              "type": "text",
-              "settings": {
-                "text": "<p>From casual to formal, we've got you covered</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "text_size": "custom",
-                "text_color": "hdt-s-text",
-                "font_size_text_lg": 20,
-                "font_size_text_md": 14,
-                "font_size_text": 16,
-                "font_weight_text": 400,
-                "letter_spacing_text": 0
-              }
-            },
-            "spacer_qMELPx": {
-              "type": "spacer",
-              "settings": {
-                "direction": false,
-                "space_lg": 48,
-                "space_md": 30,
-                "space": 20
-              }
-            },
-            "button_KCmapF": {
-              "type": "button",
-              "settings": {
-                "label": "Shop collection",
-                "link": "shopify://collections/new-arrival",
-                "open_in_new_tab": false,
-                "full_width": false,
-                "style_class": "solid",
-                "font_size": "custom custom-inline",
-                "font_weight": "medium",
-                "font_size_btn": 18,
-                "padding_btn": 30,
-                "min_width_btn": 100,
-                "min_width_dt_btn": 216,
-                "min_height_btn": 51,
-                "icon": "arrow_simple",
-                "icon_position": "after",
-                "icon_height": 10,
-                "icon_spacing": 5
-              }
-            }
-          },
-          "block_order": [
-            "heading_jDwDgm",
-            "spacer_pVWnWz",
-            "text_WTVKay",
-            "spacer_qMELPx",
-            "button_KCmapF"
-          ]
+          "blocks": {}
         },
-        "slide_item_HFWFfc": {
+        "slide_item_QqcJeJ": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify://shop_images/005fashion-slideshow-01.jpg",
+            "image": "shopify://shop_images/3032869_7.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-672bceb9-5154-411c-8f06-538dd1640832",
@@ -242,95 +62,17 @@
             "min_width_content": 350,
             "border_pd": 0
           },
-          "blocks": {
-            "heading_3fweJE": {
-              "type": "heading",
-              "settings": {
-                "heading": "<p>Multi - faceted Beauty</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "heading_size": "h1",
-                "text_color": "hdt-s-text",
-                "font_size_heading_lg": 80,
-                "font_size_heading_md": 30,
-                "font_size_heading": 24,
-                "font_weight_heading": 400,
-                "letter_spacing_heading": 0
-              }
-            },
-            "spacer_DtyHMg": {
-              "type": "spacer",
-              "settings": {
-                "direction": false,
-                "space_lg": 18,
-                "space_md": 18,
-                "space": 18
-              }
-            },
-            "text_eznkTL": {
-              "type": "text",
-              "settings": {
-                "text": "<p>From casual to formal, we've got you covered</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "text_size": "custom",
-                "text_color": "hdt-s-text",
-                "font_size_text_lg": 20,
-                "font_size_text_md": 14,
-                "font_size_text": 16,
-                "font_weight_text": 400,
-                "letter_spacing_text": 0
-              }
-            },
-            "spacer_cRtKfJ": {
-              "type": "spacer",
-              "settings": {
-                "direction": false,
-                "space_lg": 48,
-                "space_md": 30,
-                "space": 20
-              }
-            },
-            "button_g3D6Gj": {
-              "type": "button",
-              "settings": {
-                "label": "Shop collection",
-                "link": "shopify://collections/new-arrival",
-                "open_in_new_tab": false,
-                "full_width": false,
-                "style_class": "solid",
-                "font_size": "custom custom-inline",
-                "font_weight": "medium",
-                "font_size_btn": 18,
-                "padding_btn": 20,
-                "min_width_btn": 100,
-                "min_width_dt_btn": 216,
-                "min_height_btn": 51,
-                "icon": "arrow_simple",
-                "icon_position": "after",
-                "icon_height": 10,
-                "icon_spacing": 5
-              }
-            }
-          },
-          "block_order": [
-            "heading_3fweJE",
-            "spacer_DtyHMg",
-            "text_eznkTL",
-            "spacer_cRtKfJ",
-            "button_g3D6Gj"
-          ]
+          "blocks": {}
         }
       },
       "block_order": [
-        "slide_item_ADdKxA",
         "slide_item_pA3jjx",
-        "slide_item_HFWFfc"
+        "slide_item_QqcJeJ"
       ],
       "custom_css": [],
       "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
+        "image_height": "fixed",
+        "fixed_height": 800,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
         "is_fade": false,
@@ -346,84 +88,63 @@
         "dot_align": "center",
         "dot_space": 50,
         "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
-        "full_width": true
+        "full_width": true,
+        "rounded": "none",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
       }
     },
     "collections_list_6fMjgT": {
       "type": "collections-list",
       "blocks": {
-        "collection_item_DGnV3j": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "camp-and-hike",
-            "image": "shopify://shop_images/cate1_8614e6ea-0052-4845-bde2-16e51a379476.jpg",
-            "title": "Blazers",
-            "collection_link": "shopify://collections/new-arrival"
-          }
-        },
-        "collection_item_APay7z": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "ceramic",
-            "image": "shopify://shop_images/cate2_dc11074e-8ef7-4793-be81-441499256223.jpg",
-            "title": "Sweaters",
-            "collection_link": "shopify://collections/new-arrival"
-          }
-        },
-        "collection_item_aE6iUh": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "coastal-serenity",
-            "image": "shopify://shop_images/cate3_c4afdc83-2348-4ff6-9e82-e173daab96a5.jpg",
-            "title": "Sneakers",
-            "collection_link": "shopify://collections/new-arrival"
-          }
-        },
-        "collection_item_jenKt6": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "dresses",
-            "image": "shopify://shop_images/cate4_ff4e5c42-c5e9-4535-899a-b2e86cff3f6a.jpg",
-            "title": "Clothing",
-            "collection_link": "shopify://collections/new-arrival"
-          }
-        },
-        "collection_item_FUEYg7": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "new-arrival",
-            "image": "shopify://shop_images/cate5.png",
-            "title": "Accessories",
-            "collection_link": "shopify://collections/new-arrival"
-          }
-        },
-        "collection_item_zYtW3T": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "men",
-            "image": "shopify://shop_images/cate5_9dccfd49-4b19-4a24-9ed7-d402feadf5a6_1.jpg",
-            "title": "Men",
-            "collection_link": "shopify://collections/new-arrival"
-          }
-        },
-        "collection_item_K6H9hy": {
+        "collection_item_77qfGF": {
           "type": "collection_item",
           "settings": {
             "collection": "bestseller",
-            "image": "shopify://shop_images/cate3_d9bf5af2-c204-4f97-9cc7-c3f90a3f3597.jpg",
-            "title": "Shoes",
-            "collection_link": "shopify://collections/new-arrival"
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_P3k4YD": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "face-cream-serum",
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_JNPCBN": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "cleansing",
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_KmtTxh": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "body-lotion",
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_tV4qcG": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "hand-cream",
+            "title": "",
+            "collection_link": ""
           }
         }
       },
       "block_order": [
-        "collection_item_DGnV3j",
-        "collection_item_APay7z",
-        "collection_item_aE6iUh",
-        "collection_item_jenKt6",
-        "collection_item_FUEYg7",
-        "collection_item_zYtW3T",
-        "collection_item_K6H9hy"
+        "collection_item_77qfGF",
+        "collection_item_P3k4YD",
+        "collection_item_JNPCBN",
+        "collection_item_KmtTxh",
+        "collection_item_tV4qcG"
       ],
       "custom_css": [
         ".hdt-slider__button {border-radius: 50%;}",
@@ -489,14 +210,17 @@
                 "heading": "<p>Editor's Picks</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
+                "line_height": "",
                 "heading_size": "h4",
+                "font_weight": "",
                 "text_color": "hdt-s-text",
                 "font_size_heading_lg": 42,
                 "font_size_heading_md": 30,
                 "font_size_heading": 24,
                 "font_weight_heading": 400,
                 "letter_spacing_heading": 0
-              }
+              },
+              "blocks": {}
             },
             "heading_slider_button_8d9ntB": {
               "type": "_heading_slider_button",
@@ -507,7 +231,8 @@
                 "view_all": true,
                 "btn_label": "VIEW ALL",
                 "view_all_url": ""
-              }
+              },
+              "blocks": {}
             }
           },
           "block_order": [
@@ -556,14 +281,17 @@
             "heading": "<p>Last Chance Offers</p>",
             "hidden_br_mobile": false,
             "hidden_on_mobile": false,
+            "line_height": "",
             "heading_size": "h3",
+            "font_weight": "",
             "text_color": "hdt-s-text",
             "font_size_heading_lg": 52,
             "font_size_heading_md": 30,
             "font_size_heading": 24,
             "font_weight_heading": 400,
             "letter_spacing_heading": 0
-          }
+          },
+          "blocks": {}
         },
         "spacer_zYbUJg": {
           "type": "spacer",
@@ -572,22 +300,27 @@
             "space_lg": 20,
             "space_md": 20,
             "space": 16
-          }
+          },
+          "blocks": {}
         },
         "text_yFhyMf": {
           "type": "text",
           "settings": {
             "text": "<p>Get Them Before They're Gone</p>",
+            "icon_source": "",
+            "icon": "car",
             "hidden_br_mobile": false,
             "hidden_on_mobile": false,
             "text_size": "custom",
+            "font_weight": "",
             "text_color": "hdt-s-text",
             "font_size_text_lg": 20,
             "font_size_text_md": 14,
             "font_size_text": 16,
             "font_weight_text": 400,
             "letter_spacing_text": 0
-          }
+          },
+          "blocks": {}
         },
         "spacer_BXjLT3": {
           "type": "spacer",
@@ -596,7 +329,8 @@
             "space_lg": 20,
             "space_md": 50,
             "space": 20
-          }
+          },
+          "blocks": {}
         },
         "countdown_jg9333": {
           "type": "_countdown",
@@ -615,7 +349,8 @@
             "prepend_number": false,
             "hide_on_complete": false,
             "mess_complete": ""
-          }
+          },
+          "blocks": {}
         },
         "spacer_GKBGXW": {
           "type": "spacer",
@@ -624,7 +359,8 @@
             "space_lg": 36,
             "space_md": 50,
             "space": 20
-          }
+          },
+          "blocks": {}
         },
         "button_y8PdbE": {
           "type": "button",
@@ -645,7 +381,8 @@
             "icon_position": "after",
             "icon_height": 14,
             "icon_spacing": 5
-          }
+          },
+          "blocks": {}
         }
       },
       "block_order": [
@@ -659,7 +396,6 @@
       ],
       "custom_css": [],
       "settings": {
-        "image": "shopify://shop_images/Group_913.png",
         "link_img": "",
         "target": false,
         "image_height": "adapt_image",
@@ -711,7 +447,6 @@
         "@media (min-width: 1150px) {.hdt-card-product .hdt-card-product__info {padding-top: 0; } .hdt-heading {font-size: 5.2rem; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/lookbook_51ad2383-7270-47df-aaaf-9bef177a1329.jpg",
         "label": "SPRING SALE 30% OFF",
         "heading": "Shop this look",
         "product_des": "1",
@@ -743,14 +478,17 @@
                 "heading": "<p>Free Shipping</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
+                "line_height": "",
                 "heading_size": "h_custom",
+                "font_weight": "",
                 "text_color": "hdt-s-text",
                 "font_size_heading_lg": 18,
                 "font_size_heading_md": 18,
                 "font_size_heading": 18,
                 "font_weight_heading": 400,
                 "letter_spacing_heading": 0
-              }
+              },
+              "blocks": {}
             },
             "spacer_z7hEVc": {
               "type": "spacer",
@@ -759,22 +497,27 @@
                 "space_lg": 10,
                 "space_md": 10,
                 "space": 6
-              }
+              },
+              "blocks": {}
             },
             "text_bHiXMW": {
               "type": "text",
               "settings": {
                 "text": "<p>Free shipping over order $120</p>",
+                "icon_source": "",
+                "icon": "car",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
+                "font_weight": "",
                 "text_color": "hdt-text-secondary",
                 "font_size_text_lg": 14,
                 "font_size_text_md": 14,
                 "font_size_text": 14,
                 "font_weight_text": 400,
                 "letter_spacing_text": 0
-              }
+              },
+              "blocks": {}
             }
           },
           "block_order": [
@@ -799,14 +542,17 @@
                 "heading": "<p>Flexible Payment</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
+                "line_height": "",
                 "heading_size": "h_custom",
+                "font_weight": "",
                 "text_color": "hdt-s-text",
                 "font_size_heading_lg": 18,
                 "font_size_heading_md": 18,
                 "font_size_heading": 18,
                 "font_weight_heading": 400,
                 "letter_spacing_heading": 0
-              }
+              },
+              "blocks": {}
             },
             "spacer_pwTBXX": {
               "type": "spacer",
@@ -815,22 +561,27 @@
                 "space_lg": 10,
                 "space_md": 10,
                 "space": 6
-              }
+              },
+              "blocks": {}
             },
             "text_UwpqMB": {
               "type": "text",
               "settings": {
                 "text": "<p>Pay with Multiple Credit Cards</p>",
+                "icon_source": "",
+                "icon": "car",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
+                "font_weight": "",
                 "text_color": "hdt-text-secondary",
                 "font_size_text_lg": 14,
                 "font_size_text_md": 14,
                 "font_size_text": 14,
                 "font_weight_text": 400,
                 "letter_spacing_text": 0
-              }
+              },
+              "blocks": {}
             }
           },
           "block_order": [
@@ -855,14 +606,17 @@
                 "heading": "<p>14 Day Returns</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
+                "line_height": "",
                 "heading_size": "h_custom",
+                "font_weight": "",
                 "text_color": "hdt-s-text",
                 "font_size_heading_lg": 18,
                 "font_size_heading_md": 18,
                 "font_size_heading": 18,
                 "font_weight_heading": 400,
                 "letter_spacing_heading": 0
-              }
+              },
+              "blocks": {}
             },
             "spacer_Amcc9z": {
               "type": "spacer",
@@ -871,22 +625,27 @@
                 "space_lg": 10,
                 "space_md": 10,
                 "space": 6
-              }
+              },
+              "blocks": {}
             },
             "text_zqEE7z": {
               "type": "text",
               "settings": {
                 "text": "<p>Within 30 days for an exchange</p>",
+                "icon_source": "",
+                "icon": "car",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
+                "font_weight": "",
                 "text_color": "hdt-text-secondary",
                 "font_size_text_lg": 14,
                 "font_size_text_md": 14,
                 "font_size_text": 14,
                 "font_weight_text": 400,
                 "letter_spacing_text": 0
-              }
+              },
+              "blocks": {}
             }
           },
           "block_order": [
@@ -903,7 +662,8 @@
             "alignment": "left",
             "row_gap": 15,
             "margin_bottom": 30
-          }
+          },
+          "blocks": {}
         }
       },
       "block_order": [
@@ -915,13 +675,19 @@
         "icon_circle": false,
         "border_style": "style_2",
         "icon_vertical": true,
+        "heading_uppercase": false,
         "carousel_mobile": true,
+        "background_item": false,
+        "background_item_color": "#f5f5f5",
+        "background_item_percent": 100,
         "col_dk": "3",
         "col_tb": "3",
         "col_mb": "1",
         "spacing_dk": 30,
         "spacing_tb": 20,
         "spacing_mb": 15,
+        "full_width": false,
+        "box_content": false,
         "color_scheme": "scheme-2",
         "color_wrap": "container",
         "padding_top": 0,
@@ -935,42 +701,42 @@
         "gallery_item_cttj4U": {
           "type": "_gallery_item",
           "settings": {
-            "image": "shopify://shop_images/im1.jpg",
             "item_link": "",
             "product_item": "regular-fit-polo-shirt"
-          }
+          },
+          "blocks": {}
         },
         "gallery_item_ymREGt": {
           "type": "_gallery_item",
           "settings": {
-            "image": "shopify://shop_images/im2.jpg",
             "item_link": "",
             "product_item": "topo-designs-medium-accessory-bag"
-          }
+          },
+          "blocks": {}
         },
         "gallery_item_NRkD3U": {
           "type": "_gallery_item",
           "settings": {
-            "image": "shopify://shop_images/im3.jpg",
             "item_link": "",
             "product_item": "cotton-twill-cap"
-          }
+          },
+          "blocks": {}
         },
         "gallery_item_rUYHrL": {
           "type": "_gallery_item",
           "settings": {
-            "image": "shopify://shop_images/im4.jpg",
             "item_link": "",
             "product_item": "regular-fit-windbreaker"
-          }
+          },
+          "blocks": {}
         },
         "gallery_item_QDk6yB": {
           "type": "_gallery_item",
           "settings": {
-            "image": "shopify://shop_images/im5.jpg",
             "item_link": "",
             "product_item": "block-heeled-mary-janes"
-          }
+          },
+          "blocks": {}
         },
         "categories": {
           "type": "section-heading",
@@ -987,29 +753,36 @@
                 "heading": "<p>Shop Gram</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
+                "line_height": "",
                 "heading_size": "h4",
+                "font_weight": "",
                 "text_color": "hdt-s-text",
                 "font_size_heading_lg": 50,
                 "font_size_heading_md": 30,
                 "font_size_heading": 24,
                 "font_weight_heading": 600,
                 "letter_spacing_heading": 0
-              }
+              },
+              "blocks": {}
             },
             "text_McrFk6": {
               "type": "text",
               "settings": {
                 "text": "<p>Inspire and let yourself be inspired, from one unique fashion to another.</p>",
+                "icon_source": "",
+                "icon": "car",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
+                "font_weight": "",
                 "text_color": "hdt-text-secondary",
                 "font_size_text_lg": 16,
                 "font_size_text_md": 14,
                 "font_size_text": 14,
                 "font_weight_text": 400,
                 "letter_spacing_text": 0
-              }
+              },
+              "blocks": {}
             }
           },
           "block_order": [
