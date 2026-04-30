@@ -118,11 +118,11 @@
         "46a3191f-a3ab-4661-a59b-167e0743a9e5"
       ],
       "settings": {
-        "header_layout": "logo_left",
+        "header_layout": "logo_center",
         "header_fullwidth": true,
-        "header_height": 94,
+        "header_height": 80,
         "logo": "shopify://shop_images/logo-beauty.svg",
-        "logo_width": 100,
+        "logo_width": 90,
         "header_colors": "scheme-1",
         "main_menu": "main-menu",
         "lazy_mn": true,
