@@ -12,6 +12,120 @@
     "slideshow_tBCD9z": {
       "type": "slideshow",
       "blocks": {
+        "slide_item_KTEarr": {
+          "type": "_slide-item",
+          "name": "t:sections.slideshow.blocks.slide.name",
+          "settings": {
+            "image": "shopify://shop_images/Cosmetic_bottles.jpg",
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "",
+            "content_position": "center-end",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center",
+            "background_content": false,
+            "bg_opacity": 0,
+            "box_square": false,
+            "content_rounded": false,
+            "use_border_content": false,
+            "border_opacity": 0,
+            "border_style": "none",
+            "border_pd_dk": 0,
+            "padding_vertical": 30,
+            "padding_horizontal": 30,
+            "min_width_content": 350,
+            "border_pd": 0
+          },
+          "blocks": {
+            "heading_Eqwicg": {
+              "type": "heading",
+              "settings": {
+                "heading": "<h3>Glamorous Glam</h3>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "line_height": "hdt-lh-sm",
+                "heading_size": "h4",
+                "font_weight": "",
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading_md": 30,
+                "font_size_heading": 24,
+                "font_weight_heading": 600,
+                "letter_spacing_heading": 0
+              },
+              "blocks": {}
+            },
+            "spacer_9gEAqa": {
+              "type": "spacer",
+              "settings": {
+                "direction": false,
+                "space_lg": 20,
+                "space_md": 16,
+                "space": 10
+              },
+              "blocks": {}
+            },
+            "text_mdRxwG": {
+              "type": "text",
+              "settings": {
+                "text": "<p>From casual to formal, we've got you covered</p>",
+                "icon_source": "",
+                "icon": "car",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "text_size": "2xl",
+                "font_weight": "",
+                "text_color": "hdt-s-text",
+                "font_size_text_lg": 16,
+                "font_size_text_md": 14,
+                "font_size_text": 14,
+                "font_weight_text": 400,
+                "letter_spacing_text": 0
+              },
+              "blocks": {}
+            },
+            "spacer_9zFA7a": {
+              "type": "spacer",
+              "settings": {
+                "direction": false,
+                "space_lg": 30,
+                "space_md": 24,
+                "space": 20
+              },
+              "blocks": {}
+            },
+            "button_B4RnnP": {
+              "type": "button",
+              "settings": {
+                "label": "Shop collection",
+                "link": "shopify://collections",
+                "open_in_new_tab": false,
+                "full_width": false,
+                "style_class": "solid",
+                "font_size": "m",
+                "font_weight": "normal",
+                "font_size_btn": 14,
+                "padding_btn": 30,
+                "min_width_btn": 100,
+                "min_width_dt_btn": 100,
+                "min_height_btn": 40,
+                "icon": "none",
+                "icon_position": "after",
+                "icon_height": 16,
+                "icon_spacing": 5
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "heading_Eqwicg",
+            "spacer_9gEAqa",
+            "text_mdRxwG",
+            "spacer_9zFA7a",
+            "button_B4RnnP"
+          ]
+        },
         "slide_item_pA3jjx": {
           "type": "_slide-item",
           "settings": {
@@ -66,13 +180,14 @@
         }
       },
       "block_order": [
+        "slide_item_KTEarr",
         "slide_item_pA3jjx",
         "slide_item_QqcJeJ"
       ],
       "custom_css": [],
       "settings": {
         "image_height": "fixed",
-        "fixed_height": 800,
+        "fixed_height": 900,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
         "is_fade": false,
