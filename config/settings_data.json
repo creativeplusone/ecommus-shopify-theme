@@ -292,8 +292,8 @@
       },
       "scheme-2": {
         "settings": {
-          "text": "#674130",
-          "text2": "#545454",
+          "text": "#563425",
+          "text2": "#674130",
           "background": "#ffffff",
           "background_gradient": "",
           "background2": "#ffffff",
@@ -303,9 +303,9 @@
           "secondary_button_label": "#674130",
           "accent_color": "#b37555",
           "line_border": "#fcf2ec",
-          "overlay": "#000000",
-          "pr_text": "#000000",
-          "price": "#000000",
+          "overlay": "#563425",
+          "pr_text": "#563425",
+          "price": "#232323",
           "sale_price": "#db1215",
           "input_primary": "#ffffff",
           "input_secondary": "#000000"
@@ -440,8 +440,8 @@
       "scheme-0b3511d3-ef41-4e37-b0eb-42ef14af208b": {
         "settings": {
           "text": "#ffffff",
-          "text2": "#545454",
-          "background": "#b37555",
+          "text2": "#fcf2ec",
+          "background": "#674130",
           "background_gradient": "",
           "background2": "#ffffff",
           "button": "#ffffff",
