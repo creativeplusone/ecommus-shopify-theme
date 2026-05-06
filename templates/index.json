@@ -34,7 +34,7 @@
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
-                "heading_size": "h5",
+                "heading_size": "h4",
                 "font_weight": "",
                 "text_color": "hdt-s-text",
                 "font_size_heading_lg": 50,
@@ -42,6 +42,17 @@
                 "font_size_heading": 24,
                 "font_weight_heading": 600,
                 "letter_spacing_heading": 0
+              },
+              "blocks": {}
+            },
+            "spacer_K3UitD": {
+              "type": "spacer",
+              "name": "t:blocks.spacer.name",
+              "settings": {
+                "direction": false,
+                "space_lg": 10,
+                "space_md": 10,
+                "space": 6
               },
               "blocks": {}
             },
@@ -109,6 +120,7 @@
           },
           "block_order": [
             "heading_6zGyPa",
+            "spacer_K3UitD",
             "text_qmrY6t",
             "spacer_FQmhVU",
             "button_tM83Ue"
