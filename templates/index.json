@@ -161,8 +161,104 @@
         "gap_r_mb": 20,
         "gap_c_mb": 20,
         "padding_top": 0,
-        "padding_bottom": 52,
+        "padding_bottom": 0,
         "padding_rate": 49
+      }
+    },
+    "collections_list_6fMjgT": {
+      "type": "collections-list",
+      "blocks": {
+        "collection_item_P3k4YD": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "face-cream-serum",
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_JNPCBN": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "cleansing",
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_KmtTxh": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "body-lotion",
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_tV4qcG": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "hand-cream",
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_77qfGF": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "eye-gel-cream",
+            "title": "",
+            "collection_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_P3k4YD",
+        "collection_item_JNPCBN",
+        "collection_item_KmtTxh",
+        "collection_item_tV4qcG",
+        "collection_item_77qfGF"
+      ],
+      "custom_css": [
+        ".hdt-slider__button {border-radius: 50%;}",
+        ".hdt-collection-link {right: 0;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Collections",
+        "heading_tag": "h4",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 15,
+        "sec_heading_spacing": 25,
+        "collection_list": [],
+        "collection_des": "1",
+        "content_size": "xl",
+        "content_weight": "medium",
+        "text_transform": true,
+        "content_position": "end-start",
+        "content_padding": 0,
+        "image_ratio": "portrait",
+        "image_size": true,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "space_items": "20",
+        "half_item": false,
+        "navUI": true,
+        "btn_vi": "hover",
+        "nav_des": "outline",
+        "nav_icon": "chrvon",
+        "nav_pos": "middle_in",
+        "dotUI": true,
+        "dots_pos": "default",
+        "section_fullwidth": true,
+        "boxed_fullwidth": true,
+        "boxed_content": false,
+        "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d3",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 70
       }
     },
     "video_with_text_n7tKCg": {
@@ -224,7 +320,7 @@
         "space_item_rate": 50,
         "section_fullwidth": false,
         "color_scheme": "scheme-5",
-        "padding_top": 30,
+        "padding_top": 50,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -446,102 +542,6 @@
         "padding_rate": 75
       }
     },
-    "collections_list_6fMjgT": {
-      "type": "collections-list",
-      "blocks": {
-        "collection_item_P3k4YD": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "face-cream-serum",
-            "title": "",
-            "collection_link": ""
-          }
-        },
-        "collection_item_JNPCBN": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "cleansing",
-            "title": "",
-            "collection_link": ""
-          }
-        },
-        "collection_item_KmtTxh": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "body-lotion",
-            "title": "",
-            "collection_link": ""
-          }
-        },
-        "collection_item_tV4qcG": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "hand-cream",
-            "title": "",
-            "collection_link": ""
-          }
-        },
-        "collection_item_77qfGF": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "eye-gel-cream",
-            "title": "",
-            "collection_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_P3k4YD",
-        "collection_item_JNPCBN",
-        "collection_item_KmtTxh",
-        "collection_item_tV4qcG",
-        "collection_item_77qfGF"
-      ],
-      "custom_css": [
-        ".hdt-slider__button {border-radius: 50%;}",
-        ".hdt-collection-link {right: 0;}"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Collections",
-        "heading_tag": "h4",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 0,
-        "sec_heading_spacing": 0,
-        "collection_list": [],
-        "collection_des": "1",
-        "content_size": "xl",
-        "content_weight": "medium",
-        "text_transform": true,
-        "content_position": "end-center",
-        "content_padding": 10,
-        "image_ratio": "portrait",
-        "image_size": true,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "space_items": "20",
-        "half_item": false,
-        "navUI": false,
-        "btn_vi": "hover",
-        "nav_des": "outline",
-        "nav_icon": "chrvon",
-        "nav_pos": "middle_in",
-        "dotUI": true,
-        "dots_pos": "default",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "boxed_content": true,
-        "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d3",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 70
-      }
-    },
     "featured_collection_carousel_ViDM6V": {
       "type": "featured-collection-carousel",
       "blocks": {
@@ -747,6 +747,7 @@
       ],
       "custom_css": [],
       "settings": {
+        "image": "shopify://shop_images/439.jpg",
         "link_img": "",
         "target": false,
         "image_height": "adapt_image",
@@ -762,9 +763,9 @@
         "content_align_mb": "left",
         "full_width": true,
         "boxed_fullwidth": false,
-        "color_scheme": "scheme-00a29035-eaa1-46e8-96a5-c2a7eb39a431",
-        "padding_top": 40,
-        "padding_bottom": 100,
+        "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d3",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 50
       }
     },
@@ -774,9 +775,9 @@
         "pin_product_ADMFrf": {
           "type": "pin_product",
           "settings": {
-            "product": "cotton-twill-cap",
-            "pos_x": 23,
-            "pos_y": 6
+            "product": "pure-vitamin-c-serum",
+            "pos_x": 18,
+            "pos_y": 62
           }
         },
         "pin_product_4hzGr6": {
@@ -798,6 +799,7 @@
         "@media (min-width: 1150px) {.hdt-card-product .hdt-card-product__info {padding-top: 0; } .hdt-heading {font-size: 5.2rem; }}"
       ],
       "settings": {
+        "image": "shopify://shop_images/159.jpg",
         "label": "SPRING SALE 30% OFF",
         "heading": "Shop this look",
         "product_des": "1",
@@ -805,7 +807,7 @@
         "navUI": true,
         "color_scheme": "scheme-2",
         "full_width": false,
-        "padding_top": 30,
+        "padding_top": 60,
         "padding_bottom": 65,
         "padding_rate": 50
       }
@@ -1177,10 +1179,10 @@
   },
   "order": [
     "banner_p4grQE",
+    "collections_list_6fMjgT",
     "video_with_text_n7tKCg",
     "slideshow_tBCD9z",
     "custom_line_pJp7Tn",
-    "collections_list_6fMjgT",
     "featured_collection_carousel_ViDM6V",
     "hero_image_wbxzqd",
     "lookbook_product_NmegqK",
