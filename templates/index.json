@@ -20,7 +20,7 @@
             "img_effect": "none",
             "b_effect": "none",
             "rounded": "none",
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d3",
             "content_position": "center-start",
             "alignment": "left",
             "content_position_mb": "end-center",
@@ -536,7 +536,7 @@
         "section_fullwidth": true,
         "boxed_fullwidth": true,
         "boxed_content": true,
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d3",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 70
