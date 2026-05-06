@@ -89,21 +89,21 @@
               "type": "button",
               "settings": {
                 "label": "Shop now",
-                "link": "",
+                "link": "shopify://collections",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "style_class": "solid",
-                "font_size": "m",
+                "font_size": "l",
                 "font_weight": "normal",
                 "font_size_btn": 14,
                 "padding_btn": 30,
                 "min_width_btn": 100,
                 "min_width_dt_btn": 100,
                 "min_height_btn": 40,
-                "icon": "none",
+                "icon": "arrow_right",
                 "icon_position": "after",
-                "icon_height": 16,
-                "icon_spacing": 5
+                "icon_height": 12,
+                "icon_spacing": 8
               },
               "blocks": {}
             },
