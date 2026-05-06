@@ -21,9 +21,9 @@
             "b_effect": "none",
             "rounded": "none",
             "color_scheme": "scheme-3",
-            "content_position": "center-end",
+            "content_position": "center-start",
             "alignment": "left",
-            "content_position_mb": "center-end",
+            "content_position_mb": "end-center",
             "alignment_mb": "center"
           },
           "blocks": {
@@ -112,7 +112,7 @@
               "static": true,
               "settings": {
                 "source": "video",
-                "video": "shopify://files/videos/4830002_Asian_Woman_1920x1080.mp4",
+                "video": "shopify://files/videos/0_Woman_Face_1920x1080.mp4",
                 "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}
@@ -128,6 +128,7 @@
         },
         "banner-heading": {
           "type": "section-heading",
+          "disabled": true,
           "static": true,
           "settings": {
             "alignment": "center",
@@ -142,15 +143,15 @@
       ],
       "name": "t:sections.banner.name_video",
       "settings": {
-        "image_height": "fixed",
-        "fixed_height": 800,
+        "image_height": "full",
+        "fixed_height": 950,
         "image_height_mb": "fixed",
         "fixed_height_mb": 500,
         "col_dk": "1",
         "col_tb": "1",
         "col_mb": "1",
-        "scrollnap": false,
-        "color_scheme": "",
+        "scrollnap": true,
+        "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d3",
         "full_width": true,
         "box_content": false,
         "gap_r": 20,
@@ -162,6 +163,70 @@
         "padding_top": 0,
         "padding_bottom": 52,
         "padding_rate": 49
+      }
+    },
+    "video_with_text_n7tKCg": {
+      "type": "video-with-text",
+      "blocks": {
+        "item_content_VK8VMR": {
+          "type": "item_content",
+          "settings": {
+            "content_text": "Unscrew cap of 4EVERBTL™ and fill with water. Screw cap back on."
+          }
+        },
+        "item_content_6ArjHV": {
+          "type": "item_content",
+          "settings": {
+            "content_text": "Peel-off one blister individual seal and place tablet in the palm of your hand."
+          }
+        },
+        "item_content_x8Y6Pt": {
+          "type": "item_content",
+          "settings": {
+            "content_text": "Add 3-8 drops of water and mix until tablet is fully dissolved."
+          }
+        },
+        "item_content_iDDMFQ": {
+          "type": "item_content",
+          "settings": {
+            "content_text": "Apply on clean skin like any liquid serum!"
+          }
+        }
+      },
+      "block_order": [
+        "item_content_VK8VMR",
+        "item_content_6ArjHV",
+        "item_content_x8Y6Pt",
+        "item_content_iDDMFQ"
+      ],
+      "name": "t:sections.video.name-with-text",
+      "settings": {
+        "sec_heading": "",
+        "heading_align": "center",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "video_height": "fixed",
+        "fixed_height": 500,
+        "video_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "video": "shopify://files/videos/4830002_Asian_Woman_1920x1080.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "external_video_frame": "<iframe width=\"1905\" height=\"712\" src=\"https://www.youtube.com/embed/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "video_position": "md:hdt-order-last",
+        "video_autoplay": false,
+        "hdt_numbered_list": true,
+        "space_item": 30,
+        "space_item_rate": 50,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-5",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "padding_rate": 75
       }
     },
     "slideshow_tBCD9z": {
@@ -339,6 +404,7 @@
         "slide_item_pA3jjx",
         "slide_item_QqcJeJ"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "image_height": "fixed",
@@ -1111,6 +1177,7 @@
   },
   "order": [
     "banner_p4grQE",
+    "video_with_text_n7tKCg",
     "slideshow_tBCD9z",
     "custom_line_pJp7Tn",
     "collections_list_6fMjgT",
