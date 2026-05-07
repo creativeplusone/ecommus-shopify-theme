@@ -429,12 +429,12 @@
           "secondary_button_label": "#a6806f",
           "accent_color": "#fc5732",
           "line_border": "#ebebeb",
-          "overlay": "#000000",
-          "pr_text": "#000000",
-          "price": "#000000",
+          "overlay": "#ab755d",
+          "pr_text": "#885a46",
+          "price": "#ab755d",
           "sale_price": "#db1215",
           "input_primary": "#ffffff",
-          "input_secondary": "#909090"
+          "input_secondary": "#885a46"
         }
       },
       "scheme-0b3511d3-ef41-4e37-b0eb-42ef14af208b": {
