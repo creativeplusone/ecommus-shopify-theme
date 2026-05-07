@@ -204,8 +204,16 @@
         "collection_item_77qfGF": {
           "type": "collection_item",
           "settings": {
-            "collection": "eye-gel-cream",
+            "collection": "anti-ageing",
             "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_yLq4hk": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "for-lip",
+            "title": "Lips",
             "collection_link": ""
           }
         }
@@ -215,7 +223,8 @@
         "collection_item_JNPCBN",
         "collection_item_KmtTxh",
         "collection_item_tV4qcG",
-        "collection_item_77qfGF"
+        "collection_item_77qfGF",
+        "collection_item_yLq4hk"
       ],
       "custom_css": [
         ".hdt-slider__button {border-radius: 50%;}",
