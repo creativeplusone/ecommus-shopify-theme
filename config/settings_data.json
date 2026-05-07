@@ -280,12 +280,12 @@
           "button_label": "#ffffff",
           "button_border": "#000000",
           "secondary_button_label": "#000000",
-          "accent_color": "#db1215",
+          "accent_color": "#FC5732",
           "line_border": "#ebebeb",
           "overlay": "#000000",
-          "pr_text": "#000000",
-          "price": "#000000",
-          "sale_price": "#db1215",
+          "pr_text": "#333333",
+          "price": "#555555",
+          "sale_price": "#FC5732",
           "input_primary": "#ffffff",
           "input_secondary": "#909090"
         }
@@ -308,7 +308,7 @@
           "price": "#868686",
           "sale_price": "#db1215",
           "input_primary": "#ffffff",
-          "input_secondary": "#000000"
+          "input_secondary": "#e0b252"
         }
       },
       "scheme-3": {
