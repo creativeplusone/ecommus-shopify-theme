@@ -35,7 +35,7 @@
                 "hidden_on_mobile": false,
                 "line_height": "",
                 "heading_size": "h4",
-                "font_weight": "",
+                "font_weight": "semibold",
                 "text_color": "hdt-s-text",
                 "font_size_heading_lg": 50,
                 "font_size_heading_md": 30,
@@ -59,7 +59,7 @@
             "text_qmrY6t": {
               "type": "text",
               "settings": {
-                "text": "<p>SS 2025 New Arrival</p>",
+                "text": "<p>SS 2026 New Arrival</p>",
                 "icon_source": "",
                 "icon": "car",
                 "hidden_br_mobile": false,
