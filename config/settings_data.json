@@ -9,8 +9,9 @@
  */
 {
   "current": {
-    "color_scheme_dialog": "scheme-1",
+    "color_scheme_dialog": "scheme-2",
     "color_background": "#ffffff",
+    "color_text": "#555555",
     "color_focus": "#d53a3d",
     "badge_new": "#48d4bb",
     "badge_soldout": "#f2f2f2",
@@ -49,9 +50,16 @@
     "wis_atc_added": "2",
     "enable_compare_popup": true,
     "effect_secondary_image": "zoom",
-    "color_type": "only",
+    "uppercase_title": false,
+    "pr_title_weight": "medium",
+    "color_type": "all",
+    "image_source": "variant_img",
     "color_event": "hover",
+    "enable_color_limit": false,
+    "color_maximum": 6,
+    "size_maximum": 4,
     "remove_collection_url": true,
+    "hidden_badges": true,
     "empty_cart_link": "shopify://collections/all",
     "free_ship_pr": "cotton-jersey-top",
     "gift_wrap_pr": "adventure-egift-card-1",
