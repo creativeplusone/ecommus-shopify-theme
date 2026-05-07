@@ -293,7 +293,7 @@
       "scheme-2": {
         "settings": {
           "text": "#563425",
-          "text2": "#674130",
+          "text2": "#ab755d",
           "background": "#ffffff",
           "background_gradient": "",
           "background2": "#ffffff",
@@ -305,7 +305,7 @@
           "line_border": "#fcf2ec",
           "overlay": "#563425",
           "pr_text": "#563425",
-          "price": "#232323",
+          "price": "#ab755d",
           "sale_price": "#db1215",
           "input_primary": "#ffffff",
           "input_secondary": "#000000"
