@@ -64,8 +64,8 @@
             "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "scheme-2",
-            "mega_position": "default",
-            "mega_width": "1200",
+            "mega_position": "center_on_screen",
+            "mega_width": "full",
             "mega_custom_width": 1200
           }
         }
