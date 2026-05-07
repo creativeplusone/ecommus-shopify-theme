@@ -66,7 +66,7 @@
             "product_variant_picker_RJxUVf": {
               "type": "_product-variant-picker",
               "settings": {
-                "color_picker_type": "color_rounded",
+                "color_picker_type": "image_rounded",
                 "color_size": "small",
                 "picker_type": "block",
                 "size_chart_source": "page",
