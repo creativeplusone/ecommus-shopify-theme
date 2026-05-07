@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "heading": {
       "type": "heading-collection",
@@ -30,7 +30,9 @@
         "6df762d7-beda-4452-bcf6-1242b294077c": {
           "type": "description",
           "settings": {
-            "description": ""
+            "description": "",
+            "short_des": false,
+            "limit_words": 15
           }
         }
       },
@@ -39,11 +41,11 @@
         "6df762d7-beda-4452-bcf6-1242b294077c"
       ],
       "settings": {
-        "spacing_hd": 10,
-        "image": "shopify://shop_images/z4683181570507_46fb10fa21da971ae2af71e75431028c_f52f84e6-035f-4b0a-a139-3f31ae2a7614.webp",
+        "spacing_hd": 50,
+        "image": "{{ collection.image }}",
         "color_scheme": "",
-        "padding_top": 65,
-        "padding_bottom": 65,
+        "padding_top": 100,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
@@ -74,7 +76,7 @@
         "color_scheme": "scheme-2",
         "sidebar_position": "left",
         "sidebar_size": "medium",
-        "padding_top": 30,
+        "padding_top": 60,
         "padding_bottom": 70,
         "padding_rate": 75
       }
