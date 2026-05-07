@@ -419,14 +419,14 @@
       "scheme-4f7d5921-8567-40ac-8211-ef87792674d3": {
         "settings": {
           "text": "#93553a",
-          "text2": "#a6806f",
+          "text2": "#ffffff",
           "background": "#ffffff",
           "background_gradient": "",
           "background2": "#fcf2ec",
           "button": "#b19183",
           "button_label": "#ffffff",
           "button_border": "#a6806f",
-          "secondary_button_label": "#674130",
+          "secondary_button_label": "#a6806f",
           "accent_color": "#fc5732",
           "line_border": "#ebebeb",
           "overlay": "#000000",
