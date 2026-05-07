@@ -782,6 +782,14 @@
     "lookbook_product_NmegqK": {
       "type": "lookbook-product",
       "blocks": {
+        "pin_product_xJV4jK": {
+          "type": "pin_product",
+          "settings": {
+            "product": "hydra-glow-face-cream",
+            "pos_x": 87,
+            "pos_y": 70
+          }
+        },
         "pin_product_ADMFrf": {
           "type": "pin_product",
           "settings": {
@@ -800,6 +808,7 @@
         }
       },
       "block_order": [
+        "pin_product_xJV4jK",
         "pin_product_ADMFrf",
         "pin_product_4hzGr6"
       ],
