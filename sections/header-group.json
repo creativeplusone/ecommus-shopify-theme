@@ -64,22 +64,6 @@
             "mega_custom_width": 1200
           }
         },
-        "d9229f50-8afa-4417-8bf2-eb9f560171a6": {
-          "type": "mega_shop",
-          "settings": {
-            "title": "Shop",
-            "collection_list": [
-              "men",
-              "women"
-            ],
-            "image_ratio": "asos",
-            "image_size": false,
-            "mega_menu_colors": "scheme-2",
-            "mega_position": "default",
-            "mega_width": "1200",
-            "mega_custom_width": 1200
-          }
-        },
         "a503e0d7-367d-45ea-9298-fe6e14683f79": {
           "type": "mega_product",
           "settings": {
@@ -99,23 +83,11 @@
             "mega_width": "1200",
             "mega_custom_width": 1200
           }
-        },
-        "46a3191f-a3ab-4661-a59b-167e0743a9e5": {
-          "type": "mega_page",
-          "settings": {
-            "title": "Pages",
-            "mega_menu_colors": "",
-            "mega_position": "default",
-            "mega_width": "custom",
-            "mega_custom_width": 900
-          }
         }
       },
       "block_order": [
         "8f000a3c-c9eb-43f4-9a1a-8023ce42fa1e",
-        "d9229f50-8afa-4417-8bf2-eb9f560171a6",
-        "a503e0d7-367d-45ea-9298-fe6e14683f79",
-        "46a3191f-a3ab-4661-a59b-167e0743a9e5"
+        "a503e0d7-367d-45ea-9298-fe6e14683f79"
       ],
       "settings": {
         "header_layout": "logo_center",
