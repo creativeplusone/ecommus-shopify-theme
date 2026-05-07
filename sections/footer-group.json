@@ -47,8 +47,8 @@
           "type": "menu",
           "settings": {
             "border-column": false,
-            "heading_menu": "Useful Links",
-            "menu": "",
+            "heading_menu": "Products",
+            "menu": "products",
             "padding_inner": "",
             "custom_w_dk": "20"
           }
