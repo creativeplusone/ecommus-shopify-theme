@@ -6431,3 +6431,8 @@ shopify-account {
 [data-header-height] shopify-account {
   --shopify-account-dialog-position-top: var(--header-height);
 }
+
+/* OTP+ login modal: hide the store avatar tile. */
+.otpplus.otp-account-modal .otp-card__avatar {
+  display: none !important;
+}
