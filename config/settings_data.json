@@ -284,6 +284,16 @@
         "type": "shopify://apps/otp/blocks/otp-plus/47f9f75c-53b3-4e16-ba66-80a88d275a5b",
         "disabled": false,
         "settings": {}
+      },
+      "2414373347059068585": {
+        "type": "shopify://apps/creative-store-auth/blocks/account_modal/019fdae9-870c-7aba-a0fe-59b7742e1efe",
+        "disabled": false,
+        "settings": {
+          "brand_name": "Creative Store",
+          "accent_color": "#171717",
+          "control_radius": 4,
+          "intercept_account": true
+        }
       }
     },
     "color_schemes": {
