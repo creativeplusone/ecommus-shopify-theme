@@ -282,7 +282,7 @@
     "blocks": {
       "2414373347059068585": {
         "type": "shopify://apps/creative-store-auth/blocks/account_modal/019fdae9-870c-7aba-a0fe-59b7742e1efe",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "brand_name": "Creative Store",
           "accent_color": "#171717",
