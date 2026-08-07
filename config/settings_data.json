@@ -280,11 +280,6 @@
     },
     "content_for_index": [],
     "blocks": {
-      "8529531577560427644": {
-        "type": "shopify://apps/otp/blocks/otp-plus/47f9f75c-53b3-4e16-ba66-80a88d275a5b",
-        "disabled": false,
-        "settings": {}
-      },
       "2414373347059068585": {
         "type": "shopify://apps/creative-store-auth/blocks/account_modal/019fdae9-870c-7aba-a0fe-59b7742e1efe",
         "disabled": false,
@@ -294,6 +289,11 @@
           "control_radius": 4,
           "intercept_account": true
         }
+      },
+      "8529531577560427644": {
+        "type": "shopify://apps/otp/blocks/otp-plus/47f9f75c-53b3-4e16-ba66-80a88d275a5b",
+        "disabled": true,
+        "settings": {}
       }
     },
     "color_schemes": {
@@ -481,7 +481,7 @@
           "overlay": "#000000",
           "pr_text": "#000000",
           "price": "#000000",
-          "sale_price": "#FC5732",
+          "sale_price": "#fc5732",
           "input_primary": "#ffffff",
           "input_secondary": "#909090"
         }
