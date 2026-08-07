@@ -6436,3 +6436,8 @@ shopify-account {
 .otpplus.otp-account-modal .otp-card__avatar {
   display: none !important;
 }
+
+/* OTP+ login modal: hide the app branding link. */
+.otpplus.otp-account-modal .otp-powered-badge {
+  display: none !important;
+}
