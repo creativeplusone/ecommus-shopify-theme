@@ -111,7 +111,7 @@
               "type": "_media",
               "static": true,
               "settings": {
-                "source": "image",
+                "source": "video",
                 "image": "shopify://shop_images/9099_aacd69e7-8fb8-4159-a6d4-da03eaccbaf6.jpg",
                 "video": "shopify://files/videos/0_Woman_Face_1920x1080.mp4",
                 "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
