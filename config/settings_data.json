@@ -446,23 +446,23 @@
       },
       "scheme-4f7d5921-8567-40ac-8211-ef87792674d3": {
         "settings": {
-          "text": "#93553a",
-          "text2": "#ffffff",
+          "text": "#754800",
+          "text2": "#966D00",
           "background": "#ffffff",
           "background_gradient": "",
           "background2": "#fcf2ec",
-          "button": "#b19183",
+          "button": "#754800",
           "button_label": "#ffffff",
-          "button_border": "#a6806f",
-          "secondary_button_label": "#a6806f",
-          "accent_color": "#fc5732",
+          "button_border": "#754800",
+          "secondary_button_label": "#754800",
+          "accent_color": "#ECA003",
           "line_border": "#ebebeb",
           "overlay": "#ab755d",
-          "pr_text": "#885a46",
-          "price": "#ab755d",
+          "pr_text": "#555555",
+          "price": "#754800",
           "sale_price": "#db1215",
           "input_primary": "#ffffff",
-          "input_secondary": "#885a46"
+          "input_secondary": "#555555"
         }
       },
       "scheme-0b3511d3-ef41-4e37-b0eb-42ef14af208b": {
