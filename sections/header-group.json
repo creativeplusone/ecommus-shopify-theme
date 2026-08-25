@@ -86,7 +86,7 @@
         "main_menu": "main-menu",
         "lazy_mn": true,
         "menu_position": "center",
-        "menu_size": "lg",
+        "menu_size": "base",
         "menu_weight": "medium",
         "text_transform": false,
         "dropdown_arrow": true,
