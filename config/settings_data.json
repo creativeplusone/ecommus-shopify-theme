@@ -318,7 +318,7 @@
           "line_border": "#999999",
           "overlay": "#000000",
           "pr_text": "#333333",
-          "price": "#555555",
+          "price": "#EB3B00",
           "sale_price": "#fc5732",
           "input_primary": "#ffffff",
           "input_secondary": "#909090"
