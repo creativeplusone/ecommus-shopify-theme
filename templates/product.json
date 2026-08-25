@@ -14,8 +14,8 @@
       "settings": {
         "back_next_pr": true,
         "color_scheme": "scheme-c9476b69-abc7-454f-a946-2d5a9f5f3a37",
-        "padding_top": 30,
-        "padding_bottom": 30,
+        "padding_top": 20,
+        "padding_bottom": 20,
         "padding_rate": 75
       }
     },
@@ -29,7 +29,7 @@
             "product_title_JjxmKw": {
               "type": "_product-title",
               "settings": {
-                "hdt_pr_title_size": "h5"
+                "hdt_pr_title_size": "h4"
               },
               "blocks": {}
             },
@@ -86,7 +86,7 @@
                 "show_dynamic_checkout": true,
                 "show_gift_card_recipient": true,
                 "show_wishlist": true,
-                "show_compare": true,
+                "show_compare": false,
                 "show_price_variant": true
               },
               "blocks": {}
@@ -139,10 +139,10 @@
             "delivery_return_jwgTaG": {
               "type": "_delivery_return",
               "settings": {
-                "icon_delivery": "ship",
-                "content_devivery": "<p>Estimate delivery times:<strong> 12-26 days</strong> (International),<strong> 3-6 days</strong> (United States).</p>",
+                "icon_delivery": "delivery",
+                "content_devivery": "<p><strong>จัดส่งภายใน<br/>2-3 วัน</strong> </p>",
                 "icon_return": "return_order",
-                "content_return": "<p>Return within <strong>30 days</strong> of purchase. Duties & taxes are non-refundable.</p>"
+                "content_return": "<p>คืนสินค้าได้ภายใน <br/><strong>30 วัน</strong></p>"
               },
               "blocks": {}
             },
@@ -210,7 +210,7 @@
         "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d3",
         "full_width": false,
         "padding_top": 0,
-        "padding_bottom": 100,
+        "padding_bottom": 60,
         "padding_rate": 50
       }
     },
