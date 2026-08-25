@@ -83,7 +83,7 @@
             "product_buy_button_9gRLMx": {
               "type": "_product-buy-button",
               "settings": {
-                "show_dynamic_checkout": false,
+                "show_dynamic_checkout": true,
                 "show_gift_card_recipient": true,
                 "show_wishlist": true,
                 "show_compare": true,
