@@ -28,6 +28,7 @@
     "hd_fweight": 400,
     "heading_scale": 100,
     "font_base": "--f_family_2",
+    "body_size_md": 16,
     "h1_size": 80,
     "h2_size": 48,
     "h2_size_mb": 42,
