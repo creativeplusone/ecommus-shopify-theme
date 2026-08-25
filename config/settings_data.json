@@ -339,7 +339,7 @@
           "line_border": "#fcf2ec",
           "overlay": "#111111",
           "pr_text": "#111111",
-          "price": "#754800",
+          "price": "#333333",
           "sale_price": "#db1215",
           "input_primary": "#ffffff",
           "input_secondary": "#e0b252"

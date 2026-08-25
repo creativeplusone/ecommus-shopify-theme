@@ -93,7 +93,7 @@
         "active_link": true,
         "spacing_nav": 30,
         "open_event": "hover",
-        "header_menu_colors": "scheme-1",
+        "header_menu_colors": "scheme-2",
         "enabled_user": true,
         "enabled_compare": false,
         "enabled_wishlist": true,
