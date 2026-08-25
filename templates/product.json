@@ -151,9 +151,9 @@
               "settings": {
                 "show_icon": true,
                 "mess": "Guaranteed Safe Checkout",
-                "source": "1",
+                "source": "2",
                 "wimg": 350,
-                "svg": "visa,paypal,master,american_express",
+                "svg": "visa,master",
                 "height": 30
               },
               "blocks": {}
@@ -207,7 +207,7 @@
         "sticky_atc": true,
         "product_list_fbt": [],
         "fbt_color_scheme": "",
-        "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d3",
+        "color_scheme": "scheme-1",
         "full_width": false,
         "padding_top": 0,
         "padding_bottom": 60,
