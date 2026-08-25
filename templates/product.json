@@ -138,6 +138,7 @@
             },
             "delivery_return_jwgTaG": {
               "type": "_delivery_return",
+              "disabled": true,
               "settings": {
                 "icon_delivery": "delivery",
                 "content_devivery": "<p>Estimate delivery times: <strong>2-5 days</strong></p>",
