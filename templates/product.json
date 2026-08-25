@@ -274,8 +274,8 @@
       "type": "related-products",
       "settings": {
         "sec_heading": "People Also Bought",
-        "heading_tag": "h3",
-        "heading_size": "h3",
+        "heading_tag": "h4",
+        "heading_size": "h4",
         "text_color": "hdt-s-text",
         "heading_align": "center",
         "sec_subheading": "",
