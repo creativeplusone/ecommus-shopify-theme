@@ -140,9 +140,9 @@
               "type": "_delivery_return",
               "settings": {
                 "icon_delivery": "delivery",
-                "content_devivery": "<p><strong>จัดส่งภายใน<br/>2-3 วัน</strong> </p>",
+                "content_devivery": "<p>Estimate delivery times: <strong>2-5 days</strong></p>",
                 "icon_return": "return_order",
-                "content_return": "<p>คืนสินค้าได้ภายใน <br/><strong>30 วัน</strong></p>"
+                "content_return": "<p>Return within <strong>30 days </strong>of purchase.</p>"
               },
               "blocks": {}
             },
