@@ -166,6 +166,266 @@
         "padding_rate": 49
       }
     },
+    "slideshow_tpJqre": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_item_rf3jjQ": {
+          "type": "_slide-item",
+          "settings": {
+            "image": "shopify://shop_images/2149879951.jpg",
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "",
+            "content_position": "center-start",
+            "alignment": "left",
+            "content_position_mb": "center-start",
+            "alignment_mb": "left",
+            "background_content": false,
+            "bg_opacity": 0,
+            "box_square": false,
+            "content_rounded": false,
+            "use_border_content": false,
+            "border_opacity": 0,
+            "border_style": "none",
+            "border_pd_dk": 0,
+            "padding_vertical": 30,
+            "padding_horizontal": 30,
+            "min_width_content": 350,
+            "border_pd": 0
+          },
+          "blocks": {
+            "heading_9qV8dR": {
+              "type": "heading",
+              "settings": {
+                "heading": "<h2>Glamorous <br>Glam</h2>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "line_height": "",
+                "heading_size": "h2",
+                "font_weight": "",
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading_md": 30,
+                "font_size_heading": 24,
+                "font_weight_heading": 600,
+                "letter_spacing_heading": 0
+              },
+              "blocks": {}
+            },
+            "spacer_B7KyUX": {
+              "type": "spacer",
+              "settings": {
+                "direction": false,
+                "space_lg": 20,
+                "space_md": 16,
+                "space": 10
+              },
+              "blocks": {}
+            },
+            "text_MMfb9x": {
+              "type": "text",
+              "settings": {
+                "text": "<p>From casual to formal, we've got you covered</p>",
+                "icon_source": "",
+                "icon": "car",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "text_size": "2xl",
+                "font_weight": "",
+                "text_color": "hdt-s-text",
+                "font_size_text_lg": 16,
+                "font_size_text_md": 14,
+                "font_size_text": 14,
+                "font_weight_text": 400,
+                "letter_spacing_text": 0
+              },
+              "blocks": {}
+            },
+            "spacer_tykFBV": {
+              "type": "spacer",
+              "settings": {
+                "direction": false,
+                "space_lg": 50,
+                "space_md": 30,
+                "space": 20
+              },
+              "blocks": {}
+            },
+            "button_7qkqti": {
+              "type": "button",
+              "settings": {
+                "label": "Shop collection",
+                "link": "shopify://collections",
+                "open_in_new_tab": false,
+                "full_width": false,
+                "style_class": "solid",
+                "font_size": "m",
+                "font_weight": "normal",
+                "font_size_btn": 14,
+                "padding_btn": 30,
+                "min_width_btn": 100,
+                "min_width_dt_btn": 100,
+                "min_height_btn": 40,
+                "icon": "none",
+                "icon_position": "after",
+                "icon_height": 16,
+                "icon_spacing": 5
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "heading_9qV8dR",
+            "spacer_B7KyUX",
+            "text_MMfb9x",
+            "spacer_tykFBV",
+            "button_7qkqti"
+          ]
+        },
+        "slide_item_7y9Tt3": {
+          "type": "_slide-item",
+          "settings": {
+            "image": "shopify://shop_images/159.jpg",
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "scheme-1",
+            "content_position": "center-start",
+            "alignment": "left",
+            "content_position_mb": "center-start",
+            "alignment_mb": "left",
+            "background_content": false,
+            "bg_opacity": 0,
+            "box_square": false,
+            "content_rounded": false,
+            "use_border_content": false,
+            "border_opacity": 0,
+            "border_style": "none",
+            "border_pd_dk": 0,
+            "padding_vertical": 30,
+            "padding_horizontal": 30,
+            "min_width_content": 350,
+            "border_pd": 0
+          },
+          "blocks": {
+            "heading_3Q8MQ3": {
+              "type": "heading",
+              "settings": {
+                "heading": "<h2>Simple <br>Style</h2>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "line_height": "",
+                "heading_size": "h2",
+                "font_weight": "",
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading_md": 30,
+                "font_size_heading": 24,
+                "font_weight_heading": 600,
+                "letter_spacing_heading": 0
+              },
+              "blocks": {}
+            },
+            "spacer_7qHJWg": {
+              "type": "spacer",
+              "settings": {
+                "direction": false,
+                "space_lg": 20,
+                "space_md": 16,
+                "space": 10
+              },
+              "blocks": {}
+            },
+            "text_CmTaxb": {
+              "type": "text",
+              "settings": {
+                "text": "<p>From casual to formal, we've got you covered</p>",
+                "icon_source": "",
+                "icon": "car",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "text_size": "2xl",
+                "font_weight": "",
+                "text_color": "hdt-s-text",
+                "font_size_text_lg": 16,
+                "font_size_text_md": 14,
+                "font_size_text": 14,
+                "font_weight_text": 400,
+                "letter_spacing_text": 0
+              },
+              "blocks": {}
+            },
+            "spacer_pWfr4x": {
+              "type": "spacer",
+              "settings": {
+                "direction": false,
+                "space_lg": 50,
+                "space_md": 30,
+                "space": 20
+              },
+              "blocks": {}
+            },
+            "button_JgtakB": {
+              "type": "button",
+              "settings": {
+                "label": "Shop collection",
+                "link": "shopify://collections",
+                "open_in_new_tab": false,
+                "full_width": false,
+                "style_class": "solid",
+                "font_size": "m",
+                "font_weight": "normal",
+                "font_size_btn": 14,
+                "padding_btn": 30,
+                "min_width_btn": 100,
+                "min_width_dt_btn": 100,
+                "min_height_btn": 40,
+                "icon": "none",
+                "icon_position": "after",
+                "icon_height": 16,
+                "icon_spacing": 5
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "heading_3Q8MQ3",
+            "spacer_7qHJWg",
+            "text_CmTaxb",
+            "spacer_pWfr4x",
+            "button_JgtakB"
+          ]
+        }
+      },
+      "block_order": [
+        "slide_item_rf3jjQ",
+        "slide_item_7y9Tt3"
+      ],
+      "name": "t:sections.slideshow.name",
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "is_fade": false,
+        "loop": false,
+        "auto_play": 0,
+        "pause_hover": false,
+        "navUI": false,
+        "nav_des": "default",
+        "nav_rounded_full": false,
+        "dotUI": false,
+        "dot_vertical": false,
+        "dot_style": "default",
+        "dot_align": "center",
+        "dot_space": 30,
+        "color_scheme": "",
+        "full_width": true,
+        "rounded": "none",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "collections_list_6fMjgT": {
       "type": "collections-list",
       "blocks": {
@@ -1205,6 +1465,7 @@
   },
   "order": [
     "banner_p4grQE",
+    "slideshow_tpJqre",
     "collections_list_6fMjgT",
     "video_with_text_n7tKCg",
     "slideshow_tBCD9z",
