@@ -155,8 +155,8 @@
       ],
       "name": "t:sections.banner.name_video",
       "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 900,
+        "image_height": "fixed",
+        "fixed_height": 980,
         "image_height_mb": "fixed",
         "fixed_height_mb": 420,
         "col_dk": "1",
