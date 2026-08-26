@@ -153,6 +153,7 @@
       "block_order": [
         "banner_item_3LBJnr"
       ],
+      "disabled": true,
       "name": "t:sections.banner.name_video",
       "settings": {
         "image_height": "fixed",
@@ -411,7 +412,6 @@
         "slide_item_rf3jjQ",
         "slide_item_7y9Tt3"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.name",
       "settings": {
         "image_height": "fixed",
