@@ -86,7 +86,7 @@
         "text_weight": "hdt-font-medium",
         "spacing_bt_heading": 30,
         "text_size": "hdt-text-base",
-        "padding-t-main": 40,
+        "padding-t-main": 50,
         "padding-bt-main": 40,
         "text_copR": "© [year] <span class=\"\">Creative.co.th</span>. All rights reserved.",
         "svg": "visa,paypal,master,american_express",
