@@ -474,15 +474,15 @@
       "scheme-0b3511d3-ef41-4e37-b0eb-42ef14af208b": {
         "settings": {
           "text": "#ffffff",
-          "text2": "#f1fff3",
+          "text2": "#FFF2E6",
           "background": "#4c321a",
           "background_gradient": "",
           "background2": "#ffffff",
           "button": "#ffffff",
-          "button_label": "#e8e8e8",
+          "button_label": "#643000",
           "button_border": "#efefef",
           "secondary_button_label": "#e8e8e8",
-          "accent_color": "#eca003",
+          "accent_color": "#9D4B00",
           "line_border": "#ebebeb",
           "overlay": "#000000",
           "pr_text": "#000000",
