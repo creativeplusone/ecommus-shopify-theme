@@ -17,11 +17,11 @@
           "settings": {
             "banner_url": "",
             "banner_target": false,
-            "img_effect": "none",
+            "img_effect": "filter",
             "b_effect": "none",
             "rounded": "none",
             "color_scheme": "scheme-0b3511d3-ef41-4e37-b0eb-42ef14af208b",
-            "content_position": "center",
+            "content_position": "end-center",
             "alignment": "center",
             "content_position_mb": "end-center",
             "alignment_mb": "center"
@@ -34,7 +34,7 @@
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
-                "heading_size": "h2",
+                "heading_size": "h1",
                 "font_weight": "semibold",
                 "text_color": "hdt-text-secondary",
                 "font_size_heading_lg": 50,
@@ -67,7 +67,7 @@
                 "text_size": "custom",
                 "font_weight": "",
                 "text_color": "hdt-s-text",
-                "font_size_text_lg": 30,
+                "font_size_text_lg": 36,
                 "font_size_text_md": 20,
                 "font_size_text": 16,
                 "font_weight_text": 400,
@@ -107,6 +107,16 @@
               },
               "blocks": {}
             },
+            "spacer_wwMcAg": {
+              "type": "spacer",
+              "settings": {
+                "direction": false,
+                "space_lg": 30,
+                "space_md": 20,
+                "space": 20
+              },
+              "blocks": {}
+            },
             "banner-media": {
               "type": "_media",
               "static": true,
@@ -124,7 +134,8 @@
             "spacer_K3UitD",
             "text_qmrY6t",
             "spacer_FQmhVU",
-            "button_tM83Ue"
+            "button_tM83Ue",
+            "spacer_wwMcAg"
           ]
         },
         "banner-heading": {
@@ -144,8 +155,8 @@
       ],
       "name": "t:sections.banner.name_video",
       "settings": {
-        "image_height": "full",
-        "fixed_height": 950,
+        "image_height": "adapt_image",
+        "fixed_height": 900,
         "image_height_mb": "fixed",
         "fixed_height_mb": 420,
         "col_dk": "1",
@@ -155,7 +166,7 @@
         "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d3",
         "full_width": true,
         "box_content": false,
-        "gap_r": 20,
+        "gap_r": 50,
         "gap_c": 20,
         "gap_r_tb": 20,
         "gap_c_tb": 20,
@@ -400,6 +411,7 @@
         "slide_item_rf3jjQ",
         "slide_item_7y9Tt3"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.name",
       "settings": {
         "image_height": "fixed",
