@@ -25,7 +25,7 @@
         "agree_Rhrhcq": {
           "type": "agree",
           "settings": {
-            "content": "I agree with the<a href=\"/pages/terms-conditions\" title=\"Terms & Conditions\"><strong> terms and conditions</strong></a>"
+            "content": "I agree with the<strong> <\/strong><a href=\"\/pages\/terms-conditions\" title=\"Terms & Conditions\"><strong>terms and conditions<\/strong><\/a>"
           }
         },
         "btn_cart_checkout_fVQqmY": {
@@ -56,11 +56,11 @@
         "show_shipping_estimator": true,
         "heading": "You may also like",
         "product_list": [
-          "analogue-resin-strap-a",
-          "boxy-t-shirt",
-          "cotton-jersey-top",
-          "drawstring-detail-sports-tank-top",
-          "jersey-thong-body-1"
+          "adidas-gazelle-yellow-collegiate-gold",
+          "12-oz-slim-cooler-cup",
+          "21-oz-standard-mouth-w-flex-cap",
+          "3-in-1-wireless-charger-for-apple-devices",
+          "3-in-1-wireless-charger-with-official-magsafe-charging-15w"
         ],
         "replaces_products_selected": true
       }
@@ -73,7 +73,7 @@
           "settings": {
             "title": "Shop",
             "collection_list": [],
-            "menu_categories": "browes-all-categories",
+            "menu_categories": "",
             "link": ""
           }
         },
@@ -113,21 +113,10 @@
         "color_scheme": "",
         "show_txt": true
       }
-    },
-    "back_top_nzhYNt": {
-      "type": "back_top",
-      "settings": {
-        "enable_hidden_mobile": false,
-        "backtop_des": "1",
-        "enable_progress_bar": true,
-        "border_cl": "#f5f5f5",
-        "border_cl_active": "#000000"
-      }
     }
   },
   "order": [
     "cart-drawer",
-    "toolbar-mobile",
-    "back_top_nzhYNt"
+    "toolbar-mobile"
   ]
 }

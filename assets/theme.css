@@ -6390,10 +6390,10 @@ shopify-account {
   --shopify-account-font-heading-weight: var(--font-heading-weight);
   --shopify-account-font-body: var(--font-body-family);
   --shopify-account-font-body-weight: var(--font-body-weight);
-  --shopify-account-radius-base: .3rem;
-  --shopify-account-color-background: var(--gradient-background);
-  --shopify-account-color-text: rgb(var(--color-foreground));
-  --shopify-account-color-accent: rgb(var(--color-accent));
+  --shopify-account-radius-base: 6px;
+  --shopify-account-color-background: #ffffff;
+  --shopify-account-color-text: #17201d;
+  --shopify-account-color-accent: #235b45;
   --shopify-account-color-accent-text: #ffffff;
   --shopify-account-radius-button-small: calc(var(--shopify-account-radius-base) * .66);
   --shopify-account-radius-dialog: calc(var(--shopify-account-radius-base) * 1.75);
@@ -6406,8 +6406,8 @@ shopify-account {
   --shopify-account-color-shadow: rgb(from var(--shopify-account-color-text) r g b / .05);
   --shopify-account-color-control-background: color-mix(in srgb, var(--shopify-account-color-background) 90%, #ffffff 10%);
   --shopify-account-color-card-background: color-mix(in srgb, var(--shopify-account-color-background) 90%, #ffffff 10%);
-  --shopify-account-signed-in-avatar-color-background: transparent;
-  --shopify-account-signed-in-avatar-color-text: rgb(var(--color-foreground));
+  --shopify-account-signed-in-avatar-color-background: #e8f1ec;
+  --shopify-account-signed-in-avatar-color-text: #173f31;
   --shopify-account-avatar-size: auto;
   &::part(signed-out-avatar) {
     color: rgb(var(--color-foreground));
@@ -6430,4 +6430,14 @@ shopify-account {
 
 [data-header-height] shopify-account {
   --shopify-account-dialog-position-top: var(--header-height);
+}
+
+/* OTP+ login modal: hide the store avatar tile. */
+.otpplus.otp-account-modal .otp-card__avatar {
+  display: none !important;
+}
+
+/* OTP+ login modal: hide the app branding link. */
+.otpplus.otp-account-modal .otp-powered-badge {
+  display: none !important;
 }
